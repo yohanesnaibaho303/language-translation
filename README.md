@@ -7,7 +7,7 @@ basmalah kelar cepet
 *figure it out the API for bataknese dataset
 
 <br>
-<img src="https://raw.githubusercontent.com/yohanesnaibaho303/bataknese-language-translator/main/demo1st.jpeg">
+<img src="https://github.com/yohanesnaibaho303/bataknese-language-translation/blob/main/demo1st.jpeg">
 <br>
 
 ## Available Scripts
