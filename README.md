@@ -1,7 +1,9 @@
 # Final Project Bataknese Translation
 
 basmalah kelar cepet
+<br>
 *not yet responsive
+<br>
 *figure it out the API for bataknese dataset
 
 <br>
