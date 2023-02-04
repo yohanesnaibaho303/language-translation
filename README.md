@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <br>
-<img src="https://raw.githubusercontent.com/ReactJs-Fun/Language-Translator-ReactJS/master/Capture.PNG">
+<img src="https://raw.githubusercontent.com/yohanesnaibaho303/bataknese-language-translator/main/demo1st.jpeg">
 <br>
 
 ## Available Scripts
