@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Final Project Bataknese Translation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+basmalah kelar cepet
+<br>
+*not yet responsive
+<br>
+*figure it out the API for bataknese dataset
 
 <br>
 <img src="https://raw.githubusercontent.com/yohanesnaibaho303/bataknese-language-translator/main/demo1st.jpeg">
