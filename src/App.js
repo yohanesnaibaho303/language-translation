@@ -11,7 +11,7 @@ function App() {
           <textarea spellcheck="false" readonly disabled class="to-text" placeholder="Translation"></textarea>
         </div>
         <ul class="controls">
-          <li class="row from">
+          <li class="row from"> 
             <div class="icons">
               <i id="from" class="fas fa-volume-up"></i>
               <i id="from" class="fas fa-copy"></i>
